@@ -1,0 +1,23 @@
+1. How are you storing the word or phrase selection? How are you storing the 'blanks' version?
+
+The word selection is stored in string, words selected for different round would be stored in a list to prevent duplicted word selection. 'blanks' would be stored in str in each round and updated after each correct guesses.
+
+2.How are you managing each player's turn?
+
+Player's turn is managed in a while loop with if statements to control the flow. The loop would be broken after certain conditions are met.
+
+3.How are you maintaining each player's bank?
+
+Add a key in dictionary for player and adjust accordingly.
+
+4.What does the logic look like for managing a round?
+
+See "First_Two_Rounds.png" and "Final_Round.png" for detail
+
+5.What does the logic look like for buying a vowel?
+
+See "First_Two_Rounds.png" for detail
+
+6.How are you running the game overall?
+
+See "Wheel_of_Fourtune.png" for detail
