@@ -8,7 +8,7 @@ Player's turn is managed in a while loop with if statements to control the flow.
 
 3.How are you maintaining each player's bank?
 
-Add a key in dictionary for player and adjust accordingly.
+By updating roundtotal and gametotal in the dictionary "players"
 
 4.What does the logic look like for managing a round?
 
