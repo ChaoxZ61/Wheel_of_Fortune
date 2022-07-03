@@ -6,7 +6,7 @@
 
 **plans** folder that contains all flowcharts that represent the process of the game, see "README.md" in the respective folder for more detail.
 
-#Prerequisite
+# Prerequisite
 
 Python required. Python Version 3.8 or higher is highly recommended
 
