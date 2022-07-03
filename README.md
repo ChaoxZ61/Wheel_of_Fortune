@@ -6,7 +6,7 @@
 
 **plans** folder that contains all flowcharts that represent the process of the game, see "README.md" in the respective folder for more detail.
 
-# Prerequisite
+# Prerequisite:
 
 Python required. Python Version 3.8 or higher is highly recommended
 
@@ -22,7 +22,7 @@ Python required. Python Version 3.8 or higher is highly recommended
 
 **5.** Run "Wheel_of_Fortune.py"
 
-# Important Features
+# Important Features:
 
 **1.** Name of the players can only have letters, and first name and last name should be separated by a space.
 
