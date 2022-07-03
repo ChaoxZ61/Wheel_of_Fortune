@@ -1,0 +1,1 @@
+The player goes to the final round is: {name} with a total in first two rounds of {total}.

@@ -1,0 +1,1 @@
+The word {word} is guessed correctly by {name}, the round ends.

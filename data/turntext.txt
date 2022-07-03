@@ -1,0 +1,2 @@
+It is {name}'s turn. The current hinted word looks like {word}
+
